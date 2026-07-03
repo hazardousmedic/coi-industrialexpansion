@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\data\\cargoshipvirtualproductdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:data\\cargoshipvirtualproductdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\data\\cargoshipdrydockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:data\\cargoshipdrydockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\data\\logisticsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:data\\logisticsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\data\\retainingwalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:data\\retainingwalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\data\\shipsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:data\\shipsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\data\\surfacedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:data\\surfacedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\extensions\\reflectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:extensions\\reflectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\helper\\elementlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:helper\\elementlisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\helper\\arraylisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:helper\\arraylisthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\helper\\cargoshipdrydock\\cargoshipdrydockproto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:helper\\cargoshipdrydock\\cargoshipdrydockproto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\helper\\cargoshipdrydock\\cargoshipdrydockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:helper\\cargoshipdrydock\\cargoshipdrydockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\helper\\cargoshipdrydock\\cargoshipdrydock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:helper\\cargoshipdrydock\\cargoshipdrydock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\patches\\userinterface\\contractsmanagerpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:patches\\userinterface\\contractsmanagerpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\patches\\userinterface\\contractstabpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:patches\\userinterface\\contractstabpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\patches\\userinterface\\dropdownsetoptionpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:patches\\userinterface\\dropdownsetoptionpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\patches\\liftthroughputpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:patches\\liftthroughputpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\patches\\sorterthroughputpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:patches\\sorterthroughputpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\research\\cargoshipdrydockresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:research\\cargoshipdrydockresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\research\\logisticsresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:research\\logisticsresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\research\\retainingwallresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:research\\retainingwallresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\research\\shipresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:research\\shipresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\research\\surfaceresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:research\\surfaceresearchdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\extratransportscompat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:extratransportscompat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\industrialexpansionmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:industrialexpansionmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\modcosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:modcosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\modids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:modids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\modtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:modtranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|c:\\users\\indra-pc\\documents\\captain of industry modding\\industrialexpansion\\data\\cargodepotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BAF8F2-C2EF-D6A9-B0FC-ACB2298009F5}|IndustrialExpansion.csproj|solutionrelative:data\\cargodepotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElementListHelper.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\ElementListHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\ElementListHelper.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\ElementListHelper.cs",
+              "RelativeToolTip": "Helper\\ElementListHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T09:16:42.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReflectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Extensions\\ReflectionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ReflectionExtensions.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Extensions\\ReflectionExtensions.cs",
+              "RelativeToolTip": "Extensions\\ReflectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:08:07.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SurfaceData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\SurfaceData.cs",
+              "RelativeDocumentMoniker": "Data\\SurfaceData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\SurfaceData.cs",
+              "RelativeToolTip": "Data\\SurfaceData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T20:47:08.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RetainingWallData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\RetainingWallData.cs",
+              "RelativeDocumentMoniker": "Data\\RetainingWallData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\RetainingWallData.cs",
+              "RelativeToolTip": "Data\\RetainingWallData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:08:01.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShipsData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\ShipsData.cs",
+              "RelativeDocumentMoniker": "Data\\ShipsData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\ShipsData.cs",
+              "RelativeToolTip": "Data\\ShipsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:46:30.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogisticsData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\LogisticsData.cs",
+              "RelativeDocumentMoniker": "Data\\LogisticsData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\LogisticsData.cs",
+              "RelativeToolTip": "Data\\LogisticsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:49:49.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CargoShipVirtualProductData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\CargoShipVirtualProductData.cs",
+              "RelativeDocumentMoniker": "Data\\CargoShipVirtualProductData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\CargoShipVirtualProductData.cs",
+              "RelativeToolTip": "Data\\CargoShipVirtualProductData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T15:24:32.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CargoShipDryDockData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\CargoShipDryDockData.cs",
+              "RelativeDocumentMoniker": "Data\\CargoShipDryDockData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\CargoShipDryDockData.cs",
+              "RelativeToolTip": "Data\\CargoShipDryDockData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T05:46:30.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArrayListHelper.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\ArrayListHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\ArrayListHelper.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\ArrayListHelper.cs",
+              "RelativeToolTip": "Helper\\ArrayListHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T09:16:04.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CargoShipDryDockProto.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\CargoShipDryDock\\CargoShipDryDockProto.cs",
+              "RelativeDocumentMoniker": "Helper\\CargoShipDryDock\\CargoShipDryDockProto.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\CargoShipDryDock\\CargoShipDryDockProto.cs",
+              "RelativeToolTip": "Helper\\CargoShipDryDock\\CargoShipDryDockProto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T14:48:14.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CargoShipDryDockManager.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\CargoShipDryDock\\CargoShipDryDockManager.cs",
+              "RelativeDocumentMoniker": "Helper\\CargoShipDryDock\\CargoShipDryDockManager.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\CargoShipDryDock\\CargoShipDryDockManager.cs",
+              "RelativeToolTip": "Helper\\CargoShipDryDock\\CargoShipDryDockManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T15:10:01.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CargoShipDryDock.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\CargoShipDryDock\\CargoShipDryDock.cs",
+              "RelativeDocumentMoniker": "Helper\\CargoShipDryDock\\CargoShipDryDock.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Helper\\CargoShipDryDock\\CargoShipDryDock.cs",
+              "RelativeToolTip": "Helper\\CargoShipDryDock\\CargoShipDryDock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T14:52:37.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContractsManagerPatch.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\UserInterface\\ContractsManagerPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\UserInterface\\ContractsManagerPatch.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\UserInterface\\ContractsManagerPatch.cs",
+              "RelativeToolTip": "Patches\\UserInterface\\ContractsManagerPatch.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T08:06:22.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContractsTabPatch.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\UserInterface\\ContractsTabPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\UserInterface\\ContractsTabPatch.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\UserInterface\\ContractsTabPatch.cs",
+              "RelativeToolTip": "Patches\\UserInterface\\ContractsTabPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T08:05:12.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DropdownSetOptionPatch.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\UserInterface\\DropdownSetOptionPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\UserInterface\\DropdownSetOptionPatch.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\UserInterface\\DropdownSetOptionPatch.cs",
+              "RelativeToolTip": "Patches\\UserInterface\\DropdownSetOptionPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T08:03:27.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LiftThroughputPatch.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\LiftThroughputPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\LiftThroughputPatch.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\LiftThroughputPatch.cs",
+              "RelativeToolTip": "Patches\\LiftThroughputPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:09:09.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SorterThroughputPatch.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\SorterThroughputPatch.cs",
+              "RelativeDocumentMoniker": "Patches\\SorterThroughputPatch.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Patches\\SorterThroughputPatch.cs",
+              "RelativeToolTip": "Patches\\SorterThroughputPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:09:20.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CargoShipDryDockResearchData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\CargoShipDryDockResearchData.cs",
+              "RelativeDocumentMoniker": "Research\\CargoShipDryDockResearchData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\CargoShipDryDockResearchData.cs",
+              "RelativeToolTip": "Research\\CargoShipDryDockResearchData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T18:11:30.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogisticsResearchData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\LogisticsResearchData.cs",
+              "RelativeDocumentMoniker": "Research\\LogisticsResearchData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\LogisticsResearchData.cs",
+              "RelativeToolTip": "Research\\LogisticsResearchData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T10:04:23.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RetainingWallResearchData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\RetainingWallResearchData.cs",
+              "RelativeDocumentMoniker": "Research\\RetainingWallResearchData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\RetainingWallResearchData.cs",
+              "RelativeToolTip": "Research\\RetainingWallResearchData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:58:12.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShipResearchData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\ShipResearchData.cs",
+              "RelativeDocumentMoniker": "Research\\ShipResearchData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\ShipResearchData.cs",
+              "RelativeToolTip": "Research\\ShipResearchData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:26:33.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SurfaceResearchData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\SurfaceResearchData.cs",
+              "RelativeDocumentMoniker": "Research\\SurfaceResearchData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Research\\SurfaceResearchData.cs",
+              "RelativeToolTip": "Research\\SurfaceResearchData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:53:45.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExtraTransportsCompat.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\ExtraTransportsCompat.cs",
+              "RelativeDocumentMoniker": "ExtraTransportsCompat.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\ExtraTransportsCompat.cs",
+              "RelativeToolTip": "ExtraTransportsCompat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T09:44:12.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IndustrialExpansionMod.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\IndustrialExpansionMod.cs",
+              "RelativeDocumentMoniker": "IndustrialExpansionMod.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\IndustrialExpansionMod.cs",
+              "RelativeToolTip": "IndustrialExpansionMod.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T22:02:27.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ModCosts.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\ModCosts.cs",
+              "RelativeDocumentMoniker": "ModCosts.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\ModCosts.cs",
+              "RelativeToolTip": "ModCosts.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T09:46:17.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModIds.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\ModIds.cs",
+              "RelativeDocumentMoniker": "ModIds.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\ModIds.cs",
+              "RelativeToolTip": "ModIds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T09:46:07.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ModTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\ModTranslation.cs",
+              "RelativeDocumentMoniker": "ModTranslation.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\ModTranslation.cs",
+              "RelativeToolTip": "ModTranslation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T08:53:14.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CargoDepotData.cs",
+              "DocumentMoniker": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\CargoDepotData.cs",
+              "RelativeDocumentMoniker": "Data\\CargoDepotData.cs",
+              "ToolTip": "C:\\Users\\INDRA-PC\\Documents\\Captain of Industry Modding\\IndustrialExpansion\\Data\\CargoDepotData.cs",
+              "RelativeToolTip": "Data\\CargoDepotData.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:53:20.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
