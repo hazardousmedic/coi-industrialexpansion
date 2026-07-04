@@ -42,6 +42,7 @@ C:\Users\INDRA-PC\Documents\Captain of Industry Modding\IndustrialExpansion\obj\
 C:\Users\INDRA-PC\Documents\Captain of Industry Modding\IndustrialExpansion\obj\Debug\netstandard2.1\IndustrialExpansion.AssemblyInfoInputs.cache
 C:\Users\INDRA-PC\Documents\Captain of Industry Modding\IndustrialExpansion\obj\Debug\netstandard2.1\IndustrialExpansion.AssemblyInfo.cs
 C:\Users\INDRA-PC\Documents\Captain of Industry Modding\IndustrialExpansion\obj\Debug\netstandard2.1\IndustrialExpansion.csproj.CoreCompileInputs.cache
+C:\Users\INDRA-PC\Documents\Captain of Industry Modding\IndustrialExpansion\obj\Debug\netstandard2.1\IndustrialExpansion.sourcelink.json
 C:\Users\INDRA-PC\Documents\Captain of Industry Modding\IndustrialExpansion\obj\Debug\netstandard2.1\Industri.30B52D36.Up2Date
 C:\Users\INDRA-PC\Documents\Captain of Industry Modding\IndustrialExpansion\obj\Debug\netstandard2.1\IndustrialExpansion.dll
 C:\Users\INDRA-PC\Documents\Captain of Industry Modding\IndustrialExpansion\obj\Debug\netstandard2.1\IndustrialExpansion.pdb
