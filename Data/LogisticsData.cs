@@ -91,18 +91,18 @@ namespace IndustrialExpansion.Data
                 Option<string>.Some("Assets/Logistics/Balancers/Icons/Small_FlatBalancer.png"),
                 Ids.ToolbarCategories.Transports_Flat);
 
-            this.RegisterBalancer(registrator, ModIds.Balancers.LargeFlatBalancer,
-                ModTranslation.Get("Large Flat Balancer"), shapeFlat,
-                ModCosts.LargeFlatBalancer, largebalancerlayout,
-                "Assets/Logistics/Balancers/Prefabs/Large_FlatBalancer.prefab",
-                Option<string>.Some("Assets/Logistics/Balancers/Icons/Large_FlatBalancer.png"),
-                Ids.ToolbarCategories.Transports_Flat);
-
             this.RegisterBalancer(registrator, ModIds.Balancers.MediumFlatBalancer,
                 ModTranslation.Get("Medium Flat Balancer"), shapeFlat,
                 ModCosts.MediumFlatBalancer, mediumbalancerlayout,
                 "Assets/Logistics/Balancers/Prefabs/Medium_FlatBalancer.prefab",
                 Option<string>.Some("Assets/Logistics/Balancers/Icons/Medium_FlatBalancer.png"),
+                Ids.ToolbarCategories.Transports_Flat);
+
+            this.RegisterBalancer(registrator, ModIds.Balancers.LargeFlatBalancer,
+                ModTranslation.Get("Large Flat Balancer"), shapeFlat,
+                ModCosts.LargeFlatBalancer, largebalancerlayout,
+                "Assets/Logistics/Balancers/Prefabs/Large_FlatBalancer.prefab",
+                Option<string>.Some("Assets/Logistics/Balancers/Icons/Large_FlatBalancer.png"),
                 Ids.ToolbarCategories.Transports_Flat);
 
             this.RegisterBalancer(registrator, ModIds.Balancers.LongFlatBalancer,
@@ -123,18 +123,18 @@ namespace IndustrialExpansion.Data
                 Option<string>.Some("Assets/Logistics/Balancers/Icons/Small_UShapeBalancer.png"),
                 Ids.ToolbarCategories.Transports_Loose);
 
-            this.RegisterBalancer(registrator, ModIds.Balancers.LargeUShapeBalancer,
-                ModTranslation.Get("Large U-shape Balancer"), shapeLoose,
-                ModCosts.LargeUShapeBalancer, largebalancerlayout,
-                "Assets/Logistics/Balancers/Prefabs/Large_UShapeBalancer.prefab",
-                Option<string>.Some("Assets/Logistics/Balancers/Icons/Large_UShapeBalancer.png"),
-                Ids.ToolbarCategories.Transports_Loose);
-
             this.RegisterBalancer(registrator, ModIds.Balancers.MediumUShapeBalancer,
                 ModTranslation.Get("Medium U-shape Balancer"), shapeLoose,
                 ModCosts.MediumUShapeBalancer, mediumbalancerlayout,
                 "Assets/Logistics/Balancers/Prefabs/Medium_UShapeBalancer.prefab",
                 Option<string>.Some("Assets/Logistics/Balancers/Icons/Medium_UShapeBalancer.png"),
+                Ids.ToolbarCategories.Transports_Loose);
+
+            this.RegisterBalancer(registrator, ModIds.Balancers.LargeUShapeBalancer,
+                ModTranslation.Get("Large U-shape Balancer"), shapeLoose,
+                ModCosts.LargeUShapeBalancer, largebalancerlayout,
+                "Assets/Logistics/Balancers/Prefabs/Large_UShapeBalancer.prefab",
+                Option<string>.Some("Assets/Logistics/Balancers/Icons/Large_UShapeBalancer.png"),
                 Ids.ToolbarCategories.Transports_Loose);
 
             this.RegisterBalancer(registrator, ModIds.Balancers.LongUShapeBalancer,
@@ -155,18 +155,18 @@ namespace IndustrialExpansion.Data
                 Option<string>.Some("Assets/Logistics/Balancers/Icons/Small_PipeBalancer.png"),
                 Ids.ToolbarCategories.Transports_Fluid);
 
-            this.RegisterBalancer(registrator, ModIds.Balancers.LargePipeBalancer,
-                ModTranslation.Get("Large Pipe Balancer"), shapePipe,
-                ModCosts.LargePipeBalancer, largebalancerlayout,
-                "Assets/Logistics/Balancers/Prefabs/Large_PipeBalancer.prefab",
-                Option<string>.Some("Assets/Logistics/Balancers/Icons/Large_PipeBalancer.png"),
-                Ids.ToolbarCategories.Transports_Fluid);
-
             this.RegisterBalancer(registrator, ModIds.Balancers.MediumPipeBalancer,
                 ModTranslation.Get("Medium Pipe Balancer"), shapePipe,
                 ModCosts.MediumPipeBalancer, mediumbalancerlayout,
                 "Assets/Logistics/Balancers/Prefabs/Medium_PipeBalancer.prefab",
                 Option<string>.Some("Assets/Logistics/Balancers/Icons/Medium_PipeBalancer.png"),
+                Ids.ToolbarCategories.Transports_Fluid);
+
+            this.RegisterBalancer(registrator, ModIds.Balancers.LargePipeBalancer,
+                ModTranslation.Get("Large Pipe Balancer"), shapePipe,
+                ModCosts.LargePipeBalancer, largebalancerlayout,
+                "Assets/Logistics/Balancers/Prefabs/Large_PipeBalancer.prefab",
+                Option<string>.Some("Assets/Logistics/Balancers/Icons/Large_PipeBalancer.png"),
                 Ids.ToolbarCategories.Transports_Fluid);
 
             this.RegisterBalancer(registrator, ModIds.Balancers.LongPipeBalancer,
